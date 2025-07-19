@@ -1,5 +1,2 @@
-# demoapp
-ahana
-fuck 
-you
-hard
+# Python Codes
+list of code in python
